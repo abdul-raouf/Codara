@@ -1,4 +1,4 @@
-# 🧠 Codara A Local Codebase Documentation Agent
+# 🧠 Codara: A Local Codebase Documentation Agent
 
 ## Overview
 
