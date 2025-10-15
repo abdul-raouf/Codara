@@ -81,14 +81,6 @@ flowchart TD
     I --> J[End]
 ```
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
-pip install -r requirements.txt
-```
-
 ```bash
 python main.py /path/to/your/codebase
 ```
